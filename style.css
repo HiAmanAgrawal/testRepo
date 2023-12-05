@@ -22,7 +22,11 @@ p {
 }
 
 .text-white {
+  border-radius: 10%;
   color: white;
+}
+.container div :hover{
+  background-color: rgba(255, 255, 255, 0.589);
 }
 
 nav,
