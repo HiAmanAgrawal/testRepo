@@ -23,7 +23,7 @@ p {
 
 .text-white {
   border-radius: 10%;
-  color: white;
+  color: rgb(93, 60, 60);
 }
 .container div :hover{
   background-color: rgba(255, 255, 255, 0.589);
